@@ -4,7 +4,7 @@ so this is the repo of my own laser engraver i made i cant really find anything 
 
 also this whole machine cost me about 120$ 
 the dimentions are about 330mmx550mm
-i used a 5w laser cuz i dont think i will be doing very serious work soon 
+i used a 5w laser cuz i dont think i will be doing very serious work soon also i gave you the parts list and the example g codes the person gave to me as an example
 
 
 # Parts List
