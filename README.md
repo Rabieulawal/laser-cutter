@@ -89,6 +89,10 @@ i used a 5w laser cuz i dont think i will be doing very serious work soon also i
 * Painted Metal
 * Dark Acrylic
 
+  ### example prints
+  <img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/13dc27db-a879-4a48-a2bd-771cb2aab2d0" />
+
+
 ## Light Cutting Capability
 
 * Thin Plywood
