@@ -98,3 +98,6 @@ i used a 5w laser cuz i dont think i will be doing very serious work soon also i
 * Thin Plywood
 * Paper
 * Thin Dark Acrylic
+
+  ### working video
+  https://youtu.be/TU6ydaDN-OA
